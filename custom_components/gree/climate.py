@@ -68,7 +68,7 @@ DEFAULT_TIMEOUT = 10
 DEFAULT_TARGET_TEMP_STEP = 1
 
 # from the remote control and gree app
-MIN_TEMP = 16
+MIN_TEMP = 8
 MAX_TEMP = 30
 
 # update() interval
